@@ -5,5 +5,5 @@
 ### My name is Gisele, but you can call me Gi.
 - 🇧🇷 I'm from Brazil.
 - 👩‍🎓 I'm a Software Developer and Metallurgical Engineer.
-- 🔎 I'm looking for opportunites to apply my knowleged. 
+- 📚 I'm interested in learning Phyton, C# and Angular.
 - 😄 Pronouns: She/Her
