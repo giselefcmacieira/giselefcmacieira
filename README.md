@@ -28,7 +28,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=giselefcmacieira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="195px" alt="stats graph"  />
       </p>
 </details>
-<details >
+<details open=true>
       <summary>⚡ Language stats</summary>
       <p align='center'>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giselefcmacieira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="195px" alt="languages graph"  />
